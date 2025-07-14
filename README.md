@@ -11,7 +11,7 @@ This tool integrates with CI/CD pipelines and Selenium test logs to:
 - Collect test results (pass/fail, duration, error types)
 - Store execution data in **MongoDB** or **Firebase**
 - Display real-time visualizations using **Chart.js**
-- Help identify **flaky tests**, regressions, and trends
+- Help identify **flaky tests**, regressions, and trends.
 - Improve test transparency and reduce debugging time.
 
 ---
