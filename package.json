@@ -1,0 +1,26 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "good commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAggarwal97/Test-Automation-Dashboard.git"
+  },
+  "author": "vaggarwal97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VAggarwal97/Test-Automation-Dashboard/issues"
+  },
+  "homepage": "https://github.com/VAggarwal97/Test-Automation-Dashboard#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "random-int": "^3.0.0",
+    "simple-git": "^3.28.0"
+  }
+}
