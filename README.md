@@ -1,43 +1,26 @@
-# 🧪 Test Automation Dashboard – QA Monitoring Tool
+Test Automation Dashboard
+A dashboard for making test automation results easier to access and manage. Get the source code to bring your testing information together in one place.
 
-Contact Me for Demo
+Features
+View test automation information from a central dashboard
+Make test results easier to access
+Use the source code as a starting point for your testing workflow
+Available features depend on the version of the source code.
 
-A real-time internal dashboard for monitoring automated Selenium test execution, designed for QA teams and developers to track test health, trends, and stability over time.
+Tech Stack
+The technology stack and project requirements are provided with the source code.
 
----
+Purchase
+Interested in getting the source code? Contact connectwithvishalaggarwal@gmail.com to purchase and get access.
 
-## 🚀 Overview
+Setup and Usage
+Setup instructions, dependencies, and usage details depend on the included project stack and will be provided with the source code.
 
-This tool integrates with CI/CD pipelines and Selenium test logs to:
+Contributing
+This project is distributed as source code. For questions about customization or contribution opportunities, please contact the author.
 
-- Collect test results (pass/fail, duration, error types)
-- Store execution data in **MongoDB** or **Firebase**
-- Display real-time visualizations using **Chart.js**
-- Help identify **flaky tests**, regressions, and trends.
-- Improve test transparency and reduce debugging time.
+License
+Usage and distribution terms are provided with the source code. Please contact the author for licensing details.
 
----
-
-## 🛠 Tech Stack
-
-| Area        | Technologies |
-|-------------|--------------|
-| Backend     | Node.js, Express.js |
-| Frontend    | HTML, CSS, Reactjs, JavaScript, Chart.js |
-| Database    | MongoDB or Firebase |
-| Test Runner | Selenium |
-| Deployment  | Heroku (or any PaaS) |
-| CI/CD       | GitHub Actions, Jenkins, etc. |
-
----
-
-## 📊 Features
-
-- ✅ Real-time pass/fail test status tracking
-- 📈 Historical trends of test executions
-- 🐞 Flaky test detection (tests that randomly fail/pass)
-- ⏱ Execution time tracking and performance analysis
-- 📆 Filter by test suite, date range, or environment
-- 🔧 CI/CD integration with Jenkins, GitHub Actions, etc.
-
----
+Contact
+Email: connectwithvishalaggarwal@gmail.com
